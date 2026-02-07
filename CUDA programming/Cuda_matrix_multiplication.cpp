@@ -1,4 +1,7 @@
-
+/**
+!nvcc matrix_array_mul.cu -o matrix_array_mul -arch=sm_75   
+!./matrix_array_mul
+*/
 
 %%writefile matrix_array_mul.cu
 
